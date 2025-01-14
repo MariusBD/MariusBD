@@ -1,6 +1,4 @@
-[![Masterhead](https://cache.careers360.mobi/media/private/courses/contents/328166/2021/10/22/5101_Certificate%20In%20Data%20Science.jpg)](https://MariusBD.io)
-<h1 align="center">Hi 👋, I'm Marius</h1>
-<h3 align="center">A passionate Data Scientist from Spain.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariusbd&label=Profile%20views&color=0e75b6&style=flat" alt="mariusbd" /> </p>
 
